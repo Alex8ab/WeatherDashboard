@@ -1,5 +1,4 @@
-# Web-Design-Challenge
-Visualization dashboard website for weather data.
+# Weather Dashboard Website
 
 **Objective:** Created a visualization dashboard website through HTML and CSS on analyzing weather parameters and latitude.
 
