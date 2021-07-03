@@ -17,3 +17,8 @@ Website includes:
   - Contains all of the visualizations on the same page so we can easily visually compare them.
   - Uses a bootstrap grid for the visualizations.
 
+![Landing Page](/WebDesing1.png)
+
+![Comparisons Page](/WebDesing2.png)
+
+![Table Page](/WebDesing3.png)
